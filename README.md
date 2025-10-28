@@ -25,8 +25,8 @@ A beginner-friendly ESP32 project to display **real-time information** on a SH11
 |----------|-----------|
 | VCC      | 3.3V      |
 | GND      | GND       |
-| SDA      | D4        |
-| SCL      | D15       |
+| SDA      | D21       |
+| SCL      | D22       |
 
 > Note: SH1106 commonly uses I²C address `0x3C`. Confirm your display’s address.
 
